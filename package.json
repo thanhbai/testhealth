@@ -1,0 +1,11 @@
+{
+  "name": "demo-node-service",
+  "version": "1.0.0",
+  "description": "For Demo node service",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo thanh"
+  },
+  "author": "ThanhNPT",
+  "license": "MIT"
+}
